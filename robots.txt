@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /index.html?
+Allow: /index.php?
+Allow: /index.html/*
+Allow: /index.php/*
+
+Sitemap : https://matthias-schlitte.de//sitemap.xml
+
